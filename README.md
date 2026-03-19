@@ -10,7 +10,9 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="220" style="border-radius:10px"/>
+<table>
+<tr>
+<td valign="middle" width="60%">
 
 ```bash
 $ whoami
@@ -28,7 +30,12 @@ $ cat operator.txt
 $ echo "Stay ethical. Break things with permission."
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" align="center" width="40%">
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200"/>
+</td>
+</tr>
+</table>
 
 ---
 
