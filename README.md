@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Hareesh&fontSize=90&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Researcher&descAlignY=60&descColor=ff4444&descSize=22"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=🔴+Red+Team+Operator;🦠+Malware+Developer+%7C+MalDev;🐍+Python+%7C+Scripting+%7C+Automation;🐳+Docker+%7C+Container+Ninja;💀+Breaking+things+%E2%80%94+ethically." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=Red+Team+Operator;Malware+Developer+%7C+MalDev;Python+%7C+Scripting+%7C+Automation;Docker+%7C+Container+Ninja;Breaking+things+--+ethically." alt="Typing SVG" />
 
 </div>
 
@@ -77,9 +77,9 @@ $ echo "Stay ethical. Break things with permission."
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hareesh-tech/hareesh-tech/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hareesh-tech/hareesh-tech/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://github.com/hareesh-tech/hareesh-tech/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hareesh-tech/Hareesh/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hareesh-tech/Hareesh/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hareesh-tech/Hareesh/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -90,7 +90,7 @@ $ echo "Stay ethical. Break things with permission."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hareesh-tech&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hareesh-tech&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=4"/>
 
 </div>
 
