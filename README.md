@@ -19,13 +19,13 @@ $ whoami
   hareesh
 
 $ cat operator.txt
-┌──────────────────────────────────────────┐
-│  Name    :  Hareesh                      │
-│  Role    :  Offensive Security Researcher│
-│  Focus   :  MalDev | Red Teaming        │
-│  Tools   :  Python | Docker             │
-│  Status  :  [ ACTIVE ] 🟢               │
-└──────────────────────────────────────────┘
+┌───────────────────────────────────────────┐
+│  Name    :  Hareesh                       │
+│  Role    :  Offensive Security Researcher │
+│  Focus   :  MalDev | Red Teaming          │
+│  Tools   :  Python | Docker               │
+│  Status  :  [ ACTIVE ]🟢                 │
+└───────────────────────────────────────────┘
 
 $ echo "Stay ethical. Break things with permission."
 ```
